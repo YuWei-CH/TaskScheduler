@@ -1,0 +1,9 @@
+.gradle
+build
+gradle
+*.hprof
+task-scheduler/target/
+.idea/
+/commands.md
+Tasks
+/.vscode
